@@ -98,7 +98,7 @@ main {
     font-size: 4.5rem;
     line-height: 0.8;
     text-align: center;
-    margin-top: 170px;
+    /* margin-top: 170px; */
     font-family: IFont, sans-serif;
 
 }
@@ -112,7 +112,7 @@ main {
 
 .info {
     text-align: center;
-    margin-top: 250px;
+    margin-top: 50px;
 }
 
 .wait h2 {
@@ -127,11 +127,19 @@ main {
     margin-top: 1.25rem;
     margin-bottom: 2.5rem;
     font-family: NFont, sans-serif;
+    font-size: 20px;
 }
 
 .place h2 {
     font-family: IFont, sans-serif;
-    line-height: .8;
+    line-height: 0.8;
+    font-weight: 400;
+    font-size: 4.5rem;
+    margin-top: 3.5rem;
+}
+.happy h2 {
+    font-family: IFont, sans-serif;
+    line-height: 1.2;
     font-weight: 400;
     font-size: 4.5rem;
     margin-top: 3.5rem;
